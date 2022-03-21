@@ -1,0 +1,91 @@
+Brand: expo
+Color: green
+Date Purchased: Sun Mar 20 19:27:32 PDT 2022
+Expected Death: 2024-09-18 at 19:27:32 PDT
+
+Brand: expo
+Color: blue
+Date Purchased: Sun Mar 20 19:27:39 PDT 2022
+Expected Death: 2024-09-18 at 19:27:39 PDT
+
+Brand: target
+Color: yellow
+Date Purchased: Sun Mar 20 19:27:45 PDT 2022
+Expected Death: 2024-09-18 at 19:27:45 PDT
+
+Brand: staples
+Color: brown
+Date Purchased: Sun Mar 20 19:27:52 PDT 2022
+Expected Death: 2024-09-18 at 19:27:52 PDT
+
+Brand: Expo
+Color: Black
+Date Purchased: Sun Mar 20 19:30:11 PDT 2022
+Expected Death: 2024-09-18 at 19:30:11 PDT
+
+
+Brand: Expo
+Color: Yellow
+Date Purchased: Sun Mar 20 19:32:02 PDT 2022
+Expected Death: 2024-09-18 at 19:32:02 PDT
+
+Brand: Target
+Color: Black
+Date Purchased: Sun Mar 20 19:32:07 PDT 2022
+Expected Death: 2024-09-18 at 19:32:07 PDT
+
+Brand: Target
+Color: Green
+Date Purchased: Sun Mar 20 19:32:12 PDT 2022
+Expected Death: 2024-09-18 at 19:32:12 PDT
+
+Brand: Expo
+Color: Yellow
+Date Purchased: Sun Mar 20 19:32:02 PDT 2022
+Expected Death: 2024-09-18 at 19:32:02 PDT
+
+Brand: Target
+Color: Black
+Date Purchased: Sun Mar 20 19:32:07 PDT 2022
+Expected Death: 2024-09-18 at 19:32:07 PDT
+
+Brand: Target
+Color: Green
+Date Purchased: Sun Mar 20 19:32:12 PDT 2022
+Expected Death: 2024-09-18 at 19:32:12 PDT
+
+Brand: Staples
+Color: Blue
+Date Purchased: Sun Mar 20 19:32:21 PDT 2022
+Expected Death: 2024-09-18 at 19:32:21 PDT
+
+Brand: expo
+Color: Yellow
+Date Purchased: Sun Mar 20 19:37:23 PDT 2022
+Expected Death: 2024-09-18 at 19:37:23 PDT
+
+Brand: staples
+Color: blue
+Date Purchased: Sun Mar 20 19:37:30 PDT 2022
+Expected Death: 2024-09-18 at 19:37:30 PDT
+
+Brand: expo
+Color: Yellow
+Date Purchased: Sun Mar 20 19:37:23 PDT 2022
+Expected Death: 2024-09-18 at 19:37:23 PDT
+
+Brand: staples
+Color: blue
+Date Purchased: Sun Mar 20 19:37:30 PDT 2022
+Expected Death: 2024-09-18 at 19:37:30 PDT
+
+Brand: expo
+Color: green
+Date Purchased: Sun Mar 20 19:37:38 PDT 2022
+Expected Death: 2024-09-18 at 19:37:38 PDT
+
+Brand: staples
+Color: red
+Date Purchased: Sun Mar 20 19:37:43 PDT 2022
+Expected Death: 2024-09-18 at 19:37:43 PDT
+
